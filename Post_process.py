@@ -57,15 +57,15 @@ if __name__ == "__main__":
     # ---------------------------------  File path ---------------------------------
     print("===> load file path")
     # Input folders filepath: high-resolution image, relative dtm, low-resolution
-    input_img_filepath = r"E:\01-LoGAN\03_Reconstruction_result\001462_2015\new_result\ori_tiles"
-    gen_dtm_filepath = r"E:\01-LoGAN\03_Reconstruction_result\001462_2015\new_result\gen_dtm"
-    low_dtm_filepath = r"E:\01-LoGAN\03_Reconstruction_result\001462_2015\new_result\low_dtm_tiles"
+    input_img_filepath = r"absolute_height_test_sample/High_resolution_ORI"
+    gen_dtm_filepath = r"absolute_height_test_sample/Rel_Result"
+    low_dtm_filepath = r"absolute_height_test_sample/Low_resolution_DTM"
     input_img_lists = []
     gen_dtm_lists = []
     low_dtm_lists = []
 
     # Output folders filepath
-    gendem_abs_add_lowpass_filepath = r"E:\01-LoGAN\03_Reconstruction_result\001462_2015\new_result\abs_output_tiles"
+    gendem_abs_add_lowpass_filepath = r"absolute_height_test_sample/Abs_Result"
     file_create(gendem_abs_add_lowpass_filepath)
 
     # Extract tif file lists from folders
