@@ -1,0 +1,11 @@
+GDAL==3.4.3
+h5py==3.10.0
+numpy==1.26.4
+scikit-image==0.22.0
+scipy==1.12.0
+tensorboard==2.15.1
+torch==2.1.1
+torchaudio==2.1.1
+torchsummary==1.5.1
+torchvision==0.16.1
+tqdm==4.65.2
