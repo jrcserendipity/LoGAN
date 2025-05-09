@@ -47,10 +47,10 @@ def expand_tif_list(file_path, tif_lists):
     for tif_filename in tif_file_lists:
         if os.path.splitext(tif_filename)[1].lower() == '.tif':
             filename = os.path.splitext(tif_filename)[0].split(".")[0]
-            Namenum = filename.rsplit("_")[1]
+            Namenum = filename.rsplit("_")[-1]
             if is_number(Namenum):
                 tif_lists.append(tif_filename)
-    tif_lists.sort(key=lambda x: int((x.split('.')[0]).rsplit("_")[1]))
+    tif_lists.sort(key=lambda x: int((x.split('.')[0]).rsplit("_")[-1]))
 
 
 if __name__ == "__main__":
