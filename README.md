@@ -1,6 +1,6 @@
-This code is about the paper: LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs
+This code is about the paper: 
 
- ``Cao J, Huang R, Xu Y, et al. LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 225: 302-327.``
+## LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs
 
 It is designed for detailed monocualr terrain reconstruction of the Martian surface. 
 Below are the detailed descriptions and guidelines for running the code.
