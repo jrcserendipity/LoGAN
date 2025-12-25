@@ -1,5 +1,9 @@
+This code is about the paper: LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs
 
-The code is designed for detailed monocualr terrain reconstruction of the Martian surface. Below are the detailed descriptions and guidelines for running the code.
+''Cao J, Huang R, Xu Y, et al. LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 225: 302-327.''
+
+It is designed for detailed monocualr terrain reconstruction of the Martian surface. 
+Below are the detailed descriptions and guidelines for running the code.
 
 ### 1. Installation
 This code is tested with Python 3.11. Please install the dependencies according to ``requirement.txt``.
@@ -65,6 +69,7 @@ Tao Y, Muller J P, Xiong S, et al. MADNet 2.0: Pixel-scale topography retrieval 
 
 ### 4. Contact Information 
 
-This code is about the paper: ``LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs``.
+This code is about the paper: ``LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs``.If you have used our code, please cite our paper:
+ ``Cao J, Huang R, Xu Y, et al. LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 225: 302-327. ``
 
 For questions or issues regarding this code, please contact: ``caojiarui@tongji.edu.cn`` . 
