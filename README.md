@@ -69,7 +69,7 @@ Tao Y, Muller J P, Xiong S, et al. MADNet 2.0: Pixel-scale topography retrieval 
 
 ### 4. Contact Information 
 
-This code is about the paper: ``LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs``.
+This code is about the paper: [LoGAN: A novel local attentive generative adversarial resizable network for detailed 3D reconstruction of the Martian surface using monocular HiRISE images and DTMs](https://doi.org/10.1016/j.isprsjprs.2025.04.014).
 
 If you have used our code, please cite our paper:
 ```
